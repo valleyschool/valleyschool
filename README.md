@@ -1,3 +1,4 @@
+<img src="/封面图.jpg" width="100%"></img>
 ### 求知峪（志趣研学项目库）
 （1）鸟乐公园（Happy Park Birds）</br>
 （2）国宝回家</br>
